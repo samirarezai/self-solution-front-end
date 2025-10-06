@@ -1,5 +1,6 @@
 import Image from "next/image";
 import UsersPage from "@/users/page";
+import { Button } from "./components/ui/button";
 
 export default function Home() {
   return (
